@@ -20,7 +20,7 @@ _Experience news in a retro-futuristic style inspired by cyberpunk aesthetics!_
 ### 📰 News Categories
 
 - 🌍 **Global**: International news coverage.
-- 🇺🇸 **US News**: Domestic United States coverage.
+- 🇮🇳 **India News**: Domestic Indian news coverage.
 - 🛡️ **Defense**: Military and defense news.
 - 💣 **Conflicts**: Current global conflicts.
 - ⚖️ **Politics**: Political updates and coverage.
