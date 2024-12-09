@@ -1,0 +1,41 @@
+{
+  "short_name": "RETRO.FEED",
+  "name": "RETRO.FEED News",
+  "description": "Your retro-styled news feed for the digital age",
+  "icons": [
+    {
+      "src": "icons8-news-lineal-color-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "icons8-news-lineal-color-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icons8-news-lineal-color-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a0a0a",
+  "background_color": "#1a1a2e",
+  "categories": ["news", "retro", "cyberpunk"],
+  "orientation": "portrait",
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Latest Feed",
+      "url": "/latest",
+      "description": "View the latest news feed"
+    },
+    {
+      "name": "Cyber News",
+      "url": "/category/cyber",
+      "description": "Cyberpunk and tech news"
+    }
+  ]
+}
